@@ -1,0 +1,1 @@
+Test to convert a picture into an outline
